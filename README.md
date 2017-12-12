@@ -1,4 +1,5 @@
 <img src="https://avatars3.githubusercontent.com/u/12463357?v=3" />
+
 # docker-elasticfence
 Docker container running the Elasticfence Stack
 
